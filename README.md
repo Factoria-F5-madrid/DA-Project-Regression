@@ -39,6 +39,7 @@ Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y 
 - Limpieza y preprocesado de datos
 - Visualización de datos (seaborn, matplotlib, plotly)
 - Análisis exploratorio detallado (EDA)
+  
 Competencia: Aplicar algoritmos de aprendizaje automático según el problema, identificando y resolviendo problemas clásicos de inteligencia artificial
 - Uso de técnicas de preprocesado (normalización, escalado, label encoder, one hot encoder)
 - Separación de datos en train/test
