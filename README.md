@@ -1,7 +1,7 @@
 
 # Proyecto Regression: Used Car Prices
 
-![Banner Proyectos](assets/usedcarprices.PNG)
+![usedcarprices](https://github.com/user-attachments/assets/6aeba614-5964-415d-90c9-7b0999701dfc)
 
 
 ## 📝 Descripción del Proyecto
@@ -9,6 +9,7 @@
 [Kaggle](https://www.kaggle.com/) es la comunidad de ciencia de datos más grande que hay. En su página web se
 pueden encontrar cuadernos de jupyter de toda la comunidad, una gran cantidad de datos
 reales para utilizar, un foro, cursos, y competiciones.
+
 
 En este caso vamos a participar en una competición con fines pedagógicos que se van
 realizando de manera periódica. En la que se utilizan conjuntos de datos interesantes y
