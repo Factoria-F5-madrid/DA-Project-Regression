@@ -73,16 +73,5 @@ leaderboard.
 
 
 ## Evaluacion
-Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y de visualización de datos
-- Uso y gestión de formato .csv
-- Limpieza y preprocesado de datos
-- Visualización de datos (seaborn, matplotlib, plotly)
-- Análisis exploratorio detallado (EDA)
-
-Competencia: Aplicar algoritmos de aprendizaje automático según el problema, identificando y resolviendo problemas clásicos de inteligencia artificial
-- Uso de técnicas de preprocesado (normalización, escalado, label encoder, one hot encoder)
-- Separación de datos en train/test
-- Uso de pandas, numpy, scikitlearn
-- Seleccionar las variables que son útiles y las que no lo son
-- Reconocer si es un problema de regresión o de clasificación
-- Entrenar un modelo simple de ML (SVM, Logistic Regression, Linear Regression, Decission Tree, Naive Bayes)
+- Competencia:  Evaluar conjuntos de datos utilizando herramientas de análisis y de visualización de datos
+- Competencia: Aplicar algoritmos de aprendizaje automático según el problema, identificando y resolviendo problemas clásicos de inteligencia artificial
