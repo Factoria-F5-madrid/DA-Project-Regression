@@ -1,8 +1,7 @@
 
-# Proyecto Regression: Used Car Prices
+# Proyecto Regression
 
-![usedcarprices](https://github.com/user-attachments/assets/6aeba614-5964-415d-90c9-7b0999701dfc)
-
+![Proyecto regresion](https://github.com/user-attachments/assets/46a64198-8194-48ec-afc5-d13485c175e1)
 
 ## 📝 Descripción del Proyecto
 
