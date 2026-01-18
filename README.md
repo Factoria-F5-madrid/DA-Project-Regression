@@ -13,10 +13,10 @@ Para este proyecto vamos a utilizar un dataset que podamos abordar como un probl
 
 ## 📦 Condiciones de entrega
 EL proyecto es Grupal
-- Será necesario entregar una captura de pantalla con el score logrado y la posición en el
-leaderboard.
-- Repositorio de Github con el Notebook y otros ficheros que consideres usar
 
+- Repositorio de Github con el Notebook y otros ficheros que consideres usar
+- Será necesario entregar una aplicación demo (en streamlit) donde se interactua con el modelo entrenado y un dashboard analitico ya sea en Power BI o en la misma app de streamlit
+  
 ## ⏳ Plazo de Entrega
 - 2 semanas.
 
