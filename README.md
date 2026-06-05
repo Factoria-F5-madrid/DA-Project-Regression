@@ -18,7 +18,7 @@ EL proyecto es Grupal
 - Será necesario entregar una aplicación demo (en streamlit) donde se interactua con el modelo entrenado y un dashboard analitico ya sea en Power BI o en la misma app de streamlit
   
 ## ⏳ Plazo de Entrega
-- 2 semanas.
+- 1 semana.
 
 ## 🛠️ Tecnologías a usar
 - Jupyter Notebook, Kaggle Notebooks
